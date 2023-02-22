@@ -1,8 +1,8 @@
 
 - 👋 Hi, I’m Bharath
-- 🔭 I’m currently working on Ruby on Rails, Oracle, JS
-- 🌱 I’m learning Typescript, React ... pretty much everything that required to solve the business problem 
-- 💬 Ask me about Ruby on Rails
+- 🔭 I’m currently working on Ruby on Rails, Oracle, Javascript
+- 🌱 I’m learning NestJs, Typescript, React and Java framework(Spring boo) ... pretty much everything that required to solve the business problem 
+- 💬 Ask me about Ruby on Rails, Oracle and Javascript
 
 
 <h3 align="left">Connect with me:</h3>
