@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m Bharath
 - 🔭 I’m currently working on Ruby on Rails, Oracle, Javascript
-- 🌱 I’m learning NestJs, Typescript, React and Java framework(Spring boot) ... pretty much everything that required to solve the business problem 
+- 🌱 I’m learning NestJs, Typescript, React 
 - 💬 Ask me about Ruby on Rails, Oracle and Javascript
 
 
